@@ -1,24 +1,11 @@
 # Hello! 👋
 I'm a programmer within the finance space but I have a diverse array of interests, these include game development, machine learning, networks (transport) and many others. 
 
-## 🔭 What I'm currently working on
-- Working on trade execution systems. 
-- For fun, I'm also experimenting with building a game engine, embracing the technical challenge it presents.
-
-## 🌱 I'm currently learning
-- Game development through platforms like Unreal Engine.
-- Compilers.
-- Transport protocols.
-- Tokenization. 
-
-## 👯 I’m looking to collaborate on
-- Innovative projects in fintech
-- ML projects in particular related to graph and hypergraph neural networks
-- Open source initiatives and the creation of educational tech content.
-- Creating tech content from videos to blogs.
-  
-## 🛠️ Programming
-- **Languages**: Java, Python, C, C++, C# (.NET), Rust, Zig, Kotlin, R (rarely), Solidity and a few others
-
-## ⚡ Fun fact
-- Outside of programming, I'm an avid Brazilian Jiu-Jitsu practitioner and a history enthusiast.
+- 🔭 I’m currently working on: High performance execution system (trading). 
+- 🌱 I’m currently learning: Game development/Engine, Compilers, ML, Hypergraph NN and a few other bits. 
+- 👯 I’m looking to collaborate on: Whatever
+- 🤔 I’m looking for help with: ML and Quant Research
+- 💬 Ask me about: Anything
+- 📫 How to reach me: LinkdIn
+- ⚡ Fun fact: BJJ
+- 🛠️ Programming: Java, Python, C, C++, C# (.NET), Rust, Zig, Kotlin, R (rarely), Solidity and a few others
